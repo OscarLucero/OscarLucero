@@ -5,7 +5,7 @@ Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en 
 
 
 - Me gusta el trabajo en equipo
-- Siempre disupuesto a trabajar y ayudar
+- Siempre disupuesto a ayudar
 - Constantemente en aprendizaje
 
 ## Metas
