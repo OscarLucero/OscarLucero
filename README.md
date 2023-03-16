@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola, Soy Oscar Lucero 👋
+## _Full Stack Developer Jr_
 
-<!--
-**OscarLucero/OscarLucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en proceso de especializarme en FullStack. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me gusta el trabajo en equipo
+- Siempre disupuesto a trabajar y ayudar
+- Constantemente en aprendizaje
+
+## Metas
+
+- Especializarme en FullStack
+- Elevar mi nivel de ingles (Considero que tengo un buen nivel)
+- Aprender otras tecnologias
+- Encontrar un grupo de trabajo
