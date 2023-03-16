@@ -5,7 +5,7 @@ Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en 
 
 
 - Me gusta el trabajo en equipo
-- Siempre disupuesto a ayudar!       [hello](https://user-images.githubusercontent.com/101227384/225637668-ec6e95b7-a5ed-4b5a-b3f0-252ceabf7c16.gif)
+- Siempre disupuesto a ayudar!       (https://user-images.githubusercontent.com/101227384/225637668-ec6e95b7-a5ed-4b5a-b3f0-252ceabf7c16.gif)
 - Constantemente en aprendizaje
 
 ## Metas
