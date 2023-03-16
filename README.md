@@ -1,7 +1,7 @@
 # Hola, Soy Oscar Lucero 👋
 ## _Full Stack Developer Jr_
 
-Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en proceso de especializarme en FullStack. 
+Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en proceso de aprendizaje en FullStack. 
 
 
 - Me gusta el trabajo en equipo
