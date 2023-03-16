@@ -15,5 +15,6 @@ Soy estudiante de la licenciatura en Desarrollo de Videojuegos, ademas estoy en 
 - Aprender otras tecnologias
 - Encontrar un grupo de trabajo
 
+![progm](https://user-images.githubusercontent.com/101227384/225639951-ea1b442c-5e19-4c45-b60b-46e7866f5c8c.gif)
 
-![cattt2](https://user-images.githubusercontent.com/101227384/225639303-37d25ad8-0353-457a-ae42-cec3acdb3af5.gif)
+
